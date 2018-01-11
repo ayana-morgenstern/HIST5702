@@ -31,3 +31,6 @@ sketchfab.com: Sketch 3d models
 - this engagenement can involve using digital toold, platforms, and data against the ways that the hegemons desire, it is political
 - because it is political it involves an element of danger
 - the weapons of guerilla history might be truth and beauty bombs.
+
+## The syllabus:
+
