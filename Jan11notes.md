@@ -33,4 +33,10 @@ sketchfab.com: Sketch 3d models
 - the weapons of guerilla history might be truth and beauty bombs.
 
 ## The syllabus:
+- documenting process/what you think/what you read
+- Weekly pattern: collaborative reading with hypothesis, making, breaking and experimenting in class and out. devlog/open notebook on Github.
+- Must push. Must document. Must read/ Must make noise. Go against the grain (digital tech requires submission, push back!) Tell histories that are not amenable to middle aged white guys on the internet. 
+- Assessment: oral reports (talking about project), 10 devlogs, Project (paradata and the thing itself). 
+
+## Ottawa as Canvas:
 
