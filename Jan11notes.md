@@ -38,6 +38,7 @@ sketchfab.com: Sketch 3d models
 - Must push. Must document. Must read/ Must make noise. Go against the grain (digital tech requires submission, push back!) Tell histories that are not amenable to middle aged white guys on the internet. 
 - Assessment: oral reports (talking about project), 10 devlogs, Project (paradata and the thing itself). 
 - [Assessment](https://github.com/shawngraham/5702w-w18/wiki/Assessment)
+- [Schedule](https://github.com/shawngraham/5702w-w18/wiki/Schedule)
 
 ## Ottawa as Canvas:
 
