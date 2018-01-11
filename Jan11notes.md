@@ -19,3 +19,15 @@ WE FINALLY GOT TO SEE SHAWNS WIKIPEDIA PROJECT IN ACTION. Cacaphony (digital dat
 - Weekly Flow
 - Your Responsibilities, Your Rewards
 - Ottawa as a canvas for Guerilla Digital Public History (Projection Mapping, Pirate Boxes, Place-based storytelling).
+sketchfab.com: Sketch 3d models 
+**LOOK AT PROGRAM HISTORIAN AGAIN** DIGITAL STUFF FOR RESEARCH. 
+
+## Core Concepts:
+- Digital history is about making things
+- The point of making is about discovery, not justification
+- Through making we come to understand the issue deeply, differently. divergently
+- making might let us find again the web we lost, the web we have to save.
+- the digital world overlays and interwines the physical world
+- this engagenement can involve using digital toold, platforms, and data against the ways that the hegemons desire, it is political
+- because it is political it involves an element of danger
+- the weapons of guerilla history might be truth and beauty bombs.
