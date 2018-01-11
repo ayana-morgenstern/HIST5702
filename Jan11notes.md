@@ -41,4 +41,7 @@ sketchfab.com: Sketch 3d models
 - [Schedule](https://github.com/shawngraham/5702w-w18/wiki/Schedule)
 
 ## Ottawa as Canvas:
-
+- Counter narratives and hidden stories. Where can we interact/intervene in the fabric of the city? Feasible, practical?
+- Ideas of empty space; remnants of history (ie: faded signs). History of the Village. 
+- What story lies beneath? 
+- Idea of official commemorations. 
