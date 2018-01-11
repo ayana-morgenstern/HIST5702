@@ -37,7 +37,7 @@ sketchfab.com: Sketch 3d models
 - Weekly pattern: collaborative reading with hypothesis, making, breaking and experimenting in class and out. devlog/open notebook on Github.
 - Must push. Must document. Must read/ Must make noise. Go against the grain (digital tech requires submission, push back!) Tell histories that are not amenable to middle aged white guys on the internet. 
 - Assessment: oral reports (talking about project), 10 devlogs, Project (paradata and the thing itself). 
-- (https://github.com/shawngraham/5702w-w18/wiki/Assessment "Assessment")
+- [Assessment](https://github.com/shawngraham/5702w-w18/wiki/Assessment)
 
 ## Ottawa as Canvas:
 
