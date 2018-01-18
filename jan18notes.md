@@ -19,3 +19,4 @@ how do you persuade people to connect?:
 - scavenger hunt
 - physical present/item to signal
 - rewrite the purpose of the space (what purpose of a space cannot be touched/changed and why?)
+- politics of labour: openness of academic knowledge: idea of accessibility/collaboration. 
