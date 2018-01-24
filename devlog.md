@@ -27,6 +27,7 @@ Inserting images:
 ![Wikipedia logo](http://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg "Wikipedia logo")
 
 Tables/that kinda thing:
+
 | Heading 1 | Heading 2 | Heading 3 |
 | --------- | --------- | --------- |
 | Row 1, column 1 | Row 1, column 2 | Row 1, column 3|
