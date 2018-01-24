@@ -23,5 +23,12 @@ The ./ command refers to the current directory you’re in. This is a really val
 - Stackedit is a useful place to practice doing MD. I'm already pretty good at it tho. 
 -  Since Markdown does not distinguish between fonts, we represent code by wrapping snippets in back-tick characters like "`"` For example, `<br />`. 
 - Images can be referenced using !, followed by some alt-text in square brackets, followed by the image URL and an optional title. These will not be displayed in your plain text document, but would be embedded into a rendered HTML page.
-
+Inserting images:
 ![Wikipedia logo](http://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg "Wikipedia logo")
+
+Tables/that kinda thing:
+| Heading 1 | Heading 2 | Heading 3 |
+| --------- | --------- | --------- |
+| Row 1, column 1 | Row 1, column 2 | Row 1, column 3|
+| Row 2, column 1 | Row 2, column 2 | Row 2, column 3|
+| Row 3, column 1 | Row 3, column 2 | Row 3, column 3|
