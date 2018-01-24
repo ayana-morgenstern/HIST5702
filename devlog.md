@@ -33,3 +33,8 @@ Tables/that kinda thing:
 | Row 1, column 1 | Row 1, column 2 | Row 1, column 3|
 | Row 2, column 1 | Row 2, column 2 | Row 2, column 3|
 | Row 3, column 1 | Row 3, column 2 | Row 3, column 3|
+
+
+## Pandoc Tutorial
+
+- Installing Pandoc itself proves to be a damn nightmare. Finalement, I manage it!
