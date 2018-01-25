@@ -42,4 +42,5 @@ We're gonna build something in Aris! [Aris](https://fielddaylab.org/make/aris/)
 
 - Could do a walking tour of the "gay scene": explore it chronologically/element of having to stay hidden?
 
-- Hidden history of LGBTQ activism/buildings [Gays of Ottawa](http://www.villagelegacy.ca/tours/show/3) [Former/Current Gay Bars](http://www.villagelegacy.ca/tours/show/2)
+- Hidden history of LGBTQ activism/buildings [Gays of Ottawa](http://www.villagelegacy.ca/tours/show/3) 
+[Former/Current Gay Bars](http://www.villagelegacy.ca/tours/show/2)
