@@ -44,3 +44,4 @@ I'm going to try and come back to this. [PandocMarkdownTips/Tutorial](https://pr
 ## Version Control Tutorial:
 - Ok this makes sense to me: I already essentially do this on github with a lot of my own notes.
 - I hate all of this. My head hurts a lot.
+- So far can't figure out if github desktop is supposed to allow me to do local changes, as I am only managing the remote ones and then pushing them to desktop. *sigh*
