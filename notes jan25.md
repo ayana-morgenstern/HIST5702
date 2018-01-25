@@ -39,3 +39,5 @@ We're gonna build something in Aris! [Aris](https://fielddaylab.org/make/aris/)
 - Plaques are way points in the story. I WANNA BUILD A STORY FOR SURE!
 
 - Tool to plan out what should happen: Twinery. 
+
+- Could do a walking tour of the "gay scene": explore it chronologically/element of having to stay hidden?
