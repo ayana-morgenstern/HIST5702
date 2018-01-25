@@ -38,3 +38,4 @@ Tables/that kinda thing:
 ## Pandoc Tutorial
 
 - Installing Pandoc itself proves to be a damn nightmare. Finalement, I manage it!
+- OMG MY TEXT EDIT WASNT NATURALLY IN PLAIN TEXT SO THAT SET ME BACK. Ok this is a nightmare, nothing is working. 
