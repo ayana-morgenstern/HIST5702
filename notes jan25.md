@@ -28,3 +28,9 @@ Projecting a history of artist interventions?
 *Idea of anonymity* What affordances does this bring?
 - Projection mapping of MMIW
 - Idea of truth decay: use as much gravitas possible to intervene in truth decay?
+
+- Urban church involved in 60s scoop!!!!!! 
+- I like the idea of pushing boundaries and engaging in confrontation: make people uncomfortable. Figure out different affordances. 
+- **PLAY WITH THE TRANSCRIPT OF THE NORTHERN LIGHTS TEXT** Explode the text, rewrite it. 
+
+We're gonna build something in Aris! [Aris](https://fielddaylab.org/make/aris/)
