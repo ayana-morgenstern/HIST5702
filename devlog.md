@@ -40,3 +40,6 @@ Tables/that kinda thing:
 - Installing Pandoc itself proves to be a damn nightmare. Finalement, I manage it!
 - OMG MY TEXT EDIT WASNT NATURALLY IN PLAIN TEXT SO THAT SET ME BACK. Ok this is a nightmare, nothing is working. 
 I'm going to try and come back to this. [PandocMarkdownTips/Tutorial](https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+
+## Version Control Tutorial:
+- Ok this makes sense to me: I already essentially do this on github with a lot of my own notes.
