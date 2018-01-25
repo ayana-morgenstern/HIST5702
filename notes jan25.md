@@ -37,3 +37,5 @@ We're gonna build something in Aris! [Aris](https://fielddaylab.org/make/aris/)
 
 - You could do a neighbourhood tour?
 - Plaques are way points in the story. I WANNA BUILD A STORY FOR SURE!
+
+- Tool to plan out what should happen: Twinery. 
