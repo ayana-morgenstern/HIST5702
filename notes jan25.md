@@ -11,3 +11,20 @@ Dress up. Leave a false name. Be legendary. The best PT is against the law, but 
 - Art sabotage strives to be perfectly exemplary but at the same time retain an element of opacity — not propaganda but aesthetic shock — apallingly direct yet also subtly angled — action-as-metaphor.
 Art Sabotage is the dark side of Poetic Terrorism.
 - Galleries turn beauty into a commodity but banks transmute Imagination into feces and debt. Wouldn’t the world gain a degree of beauty with each bank that could be made to trem- ble. . . or fall? But how? Art Sabotage should probably stay away from politics (it’s so boring) — but not from banks.
+
+
+**Idea of inaction/destruction as creation** Idea of ephemerality. Idea that "public" history can be personal: affect one person at a time. Is this useful?
+
+*Aesthetic Shock*
+
+## Class: 
+
+ARIS: Location based games and stories. 
+
+Ottawa's public history is official/governmental. Think about the power differential? Still operating on a broadcast model. 
+ie: idea of renting/giving away land for greenbelt. Confronting people with an idea of their neighbourhood that is different. Projecting cascades of words/text onto a building: explode the narrative. 
+Idea of projecting genres of music/events/band names onto these "underground" music scenes. 
+Projecting a history of artist interventions?
+*Idea of anonymity* What affordances does this bring?
+- Projection mapping of MMIW
+- Idea of truth decay: use as much gravitas possible to intervene in truth decay?
